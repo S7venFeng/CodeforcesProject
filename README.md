@@ -183,3 +183,4 @@ vscode通过.vscode里面的配置来设置编译/调试/运行环境，涉及�
 
 项目的代码架构如下：
 
+![VSProject](https://github.com/S7venFeng/CodeforcesProject/blob/main/VSProject.jpg)
